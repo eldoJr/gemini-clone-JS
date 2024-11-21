@@ -1,5 +1,9 @@
 # Gemini Clone Project Setup Guide
 
+<div align="center">
+  <img alt="Logo" src="https://github.com/eldoJr/eldomacuacua.github.io/blob/main/public/icons/icon-256x256.png" width="100" />
+</div>
+
 If you encounter an error like "API key not valid. Please pass a valid API key." while chatting with the Gemini, please follow these steps:
 
 ## Get Your API Key
@@ -22,9 +26,7 @@ Your API key will look something like this: AIzaSyAtpnKGX13bTgmx0l_gQeatYvdWvY_w
 1. Save the `script.js` file after adding your API key.
 2. Open` index.html` in your browser to verify that Gemini is working correctly.
 
-If you still get an error or get stuck, feel free to message me on Buy Me a Coffee.
-https://buymeacoffee.com/codingnepal
 
 ---
 
-Happy coding!
+Happy Hacking!
