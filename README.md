@@ -1,9 +1,5 @@
 # Gemini Clone Project Setup Guide
 
-<div align="center">
-  <img alt="Logo" src="https://github.com/eldoJr/eldomacuacua.github.io/blob/main/public/icons/icon-256x256.png" width="100" />
-</div>
-
 If you encounter an error like "API key not valid. Please pass a valid API key." while chatting with the Gemini, please follow these steps:
 
 ## Get Your API Key
